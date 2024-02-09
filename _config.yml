@@ -26,8 +26,8 @@ navbar-links:
     - Novelty: "aboutme"
     - Replay: "aboutme"
   Part C: 
-    - Language-guided: "aboutme"
-    - Causal-based: "aboutme"
+    - Language: "aboutme"
+    - Causality: "aboutme"
   About Us: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
