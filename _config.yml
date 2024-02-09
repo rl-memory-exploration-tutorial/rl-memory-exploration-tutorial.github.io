@@ -20,15 +20,15 @@ author: Hung Le, Hoang Nguyen, Dai Do
 ###############################################
 
 navbar-links:
-  Why This Topic: "whythis"
+  Why This Topic?: "whythis"
   Part A: "aboutme"
   Part B: 
     - Surprise: "aboutme"
     - Novelty: "aboutme"
     - Replay: "aboutme"
   Part C: 
-    - Language: "aboutme"
-    - Causality: "aboutme"
+    - Language-guided: "aboutme"
+    - Causality-based: "aboutme"
   About Us: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
