@@ -17,6 +17,10 @@ will be presented.
 
 This tutorial is mainly designed for students and academics who work on Reinforcement Learning. It is also open to research engineers and industry practitioners who need to apply efficient reinforcement learning in their jobs. Basic familiarity with reinforcement learning is assumed, and an additional understanding of deep learning and neural networks would be beneficial. No special equipment is required, but attendees are encouraged to bring their laptops to experiment with models hands-on.
 
+#### Duration
+
+Half day.
+
 #### Tutorial Outline
 - [Part A](./)
 - [Part B](./)
@@ -30,3 +34,4 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 #### Tutorial Materials
 - [Tutorial video](./) 
 - [Tutorial slides](./)  
+- [Tutorial Proposal](./)
