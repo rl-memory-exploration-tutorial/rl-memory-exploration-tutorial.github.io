@@ -21,14 +21,14 @@ author: Hung Le, Hoang Nguyen, Dai Do
 
 navbar-links:
   Why This Topic?: "whythis"
-  Part A: "index"
+  Part A: "parta"
   Part B: 
-    - Surprise: "index"
-    - Novelty: "index"
-    - Replay: "index"
+    - Surprise: "partb-surprise"
+    - Novelty: "partb-novelty"
+    - Replay: "partb-replay"
   Part C: 
-    - Language: "index"
-    - Causality: "index"
+    - Language: "partc-language"
+    - Causality: "partc-causality"
   About Us: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
