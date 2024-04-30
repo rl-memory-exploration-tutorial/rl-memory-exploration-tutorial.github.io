@@ -44,4 +44,4 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 - [Tutorial video](./) 
 - [Tutorial slides](./)  
 - [Tutorial proposal](./main.pdf)
-- [Tutorial code](./)
+- [Tutorial code](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io/tree/main/resources/code)

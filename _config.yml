@@ -21,7 +21,7 @@ author: Hung Le, Hoang Nguyen, Dai Do
 
 navbar-links:
   Why This Topic?: "whythis"
-  Part A: "parta"
+  Part A: "./resources/code/partA/classic_explore.html"
   Part B: 
     - Surprise: "partb-surprise"
     - Novelty: "partb-novelty"
