@@ -3,6 +3,8 @@ layout: page
 title: Part A  
 subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
 ---
+<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
+
 ## Reinforcement Learning Basics
 
 - In reinforcement learning (RL), an agent interacts with the environment, taking actions $a$, receiving a reward $r$, and moving to a new state $s$ 
