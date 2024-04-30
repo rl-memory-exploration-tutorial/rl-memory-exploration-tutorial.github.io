@@ -30,7 +30,7 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 
 #### Tutorial Outline
 
-- [Part A](./resources/code/partA/classic_explore.md)
+- [Part A](./resources/code/partA/classic_explore.html)
 - [Part B](./partb-surprise.md)
   + [Surprise](./partb-surprise.md)
   + [Novelty](./partb-novelty.md)
