@@ -3,6 +3,16 @@ layout: home
 title: Unlocking Exploration 
 subtitle: Self-Motivated Agents Thrive on Memory-Driven Curiosity  
 ---
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 This webpage serves as the companion site for our [**AAMAS24 tutorial**](https://www.aamas2024-conference.auckland.ac.nz/accepted/tutorials/){:target="_blank"}, developed by Hung Le, Hoang Nguyen, and Dai Do. It features notes designed to complement our tutorial, all crafted using Colab notebooks for your interactive exploration. Additionally, you'll find links to our video presentation and slides. Please note that this webpage will continue to evolve until the official tutorial date (May 5, 2024), and may undergo further updates thereafter.
 
