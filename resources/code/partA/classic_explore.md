@@ -3,11 +3,11 @@
 
 ## Reinforcement Learning Basics
 
-- In reinforcement learning (RL), an agent interacts with the environment, taking actions $a$, receiving a reward $r$, and moving to a new state $s$ 
-- The agent is tasked with maximizing the accumulated rewards or returns $R$ over time by finding optimal actions (policy) 
+- In reinforcement learning (RL), an agent interacts with the environment, taking actions $a$, receiving a reward $r$, and moving to a new state $s$ 
+- The agent is tasked with maximizing the accumulated rewards or returns $R$ over time by finding optimal actions (policy) 
 <p align="center">
 <br/>
-<img src="./RLbasics.gif", width="300">
+<img src="/resources/code/partA/RLbasics.gif", width="300">
 <p>
 
 
