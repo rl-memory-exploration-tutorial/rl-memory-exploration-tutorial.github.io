@@ -29,7 +29,7 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 
 #### Tutorial Outline
 
-- [Part A](./resources/code/partA/classic_explore.html)
+- [Part A](./parta.md)
 - [Part B](./partb-surprise.md)
   + [Surprise](./partb-surprise.md)
   + [Novelty](./partb-novelty.md)
@@ -43,4 +43,4 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 - [Tutorial video](./) 
 - [Tutorial slides](./)  
 - [Tutorial proposal](./main.pdf)
-- [Tutorial code](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io/tree/main/resources/code)
+- [Tutorial code](./)
