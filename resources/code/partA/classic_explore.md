@@ -1,4 +1,4 @@
-# PART A: Reinforcement Learning Fundamentals and Exploration Inefficiency
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
 ## Reinforcement Learning Basics
@@ -7,7 +7,7 @@
 - The agent is tasked with maximizing the accumulated rewards or returns $R$ over time by finding optimal actions (policy) 
 <p align="center">
 <br/>
-<img src="/resources/code/partA/RLbasics.gif", width="300">
+<img src="resources/code/partA/RLbasics.gif", width="300">
 <p>
 
 
