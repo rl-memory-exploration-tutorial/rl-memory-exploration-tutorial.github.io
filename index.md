@@ -34,14 +34,14 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 
 - [Part A](./parta.md)
   + Welcome and Introduction (5 minutes)
-	– Overview of the tutorial
-	– Brief speaker introductions
+     * Overview of the tutorial
+     * Brief speaker introductions
   + Reinforcement Learning Basics (10 minutes)
-	– Key components and frameworks
-	– Classic exploration [13, 29]
+     * Key components and frameworks
+     * Classic exploration [13, 29]
   + Exploring Challenges in Deep RL (10 minutes)
-	– Hard exploration problems
-	– Simple exploring solutions [11, 15]
+     * Hard exploration problems
+     * Simple exploring solutions [11, 15]
   + QA and Demo (5 minutes)
 
   
