@@ -21,9 +21,9 @@ author: Hung Le, Hoang Nguyen, Dai Do
 
 navbar-links:
   Why This Topic?: "whythis"
-  Part A: "./resources/code/partA/classic_explore.html"
-  Part B: 
-  Part C: 
+  Part A: "parta"
+  Part B: "partb"
+  Part C: "partc"
   About Us: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

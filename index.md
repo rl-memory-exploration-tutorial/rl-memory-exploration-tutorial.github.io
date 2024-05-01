@@ -33,11 +33,11 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 #### Tutorial Outline
 
 - [Part A](./parta.md)
-- [Part B](./partb-surprise.md)
+- [Part B](./partb.md)
   + Surprise
   + Novelty
   + Replay
-- [Part C](./partc-language.md)
+- [Part C](./partc.md)
   + Language
   + Causality
 
