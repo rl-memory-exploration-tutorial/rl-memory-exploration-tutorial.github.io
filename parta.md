@@ -28,8 +28,13 @@ subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
 		
 
     </style> 
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
 <div class="">
     <iframe id="inlineFrameExample" 
+	onload="resizeIframe(this)"
 	frameborder="0" 
 	marginheight="0" 
 	marginwidth="0" 
