@@ -14,7 +14,7 @@ subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
         iframe { 
             margin: 0px; 
             padding: 0px; 
-            height: 200%; 
+            height: 100%; 
             border: none; 
         } 
           
