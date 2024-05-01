@@ -23,12 +23,7 @@ navbar-links:
   Why This Topic?: "whythis"
   Part A: "./resources/code/partA/classic_explore.html"
   Part B: 
-    - Surprise: "partb-surprise"
-    - Novelty: "partb-novelty"
-    - Replay: "partb-replay"
   Part C: 
-    - Language: "partc-language"
-    - Causality: "partc-causality"
   About Us: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

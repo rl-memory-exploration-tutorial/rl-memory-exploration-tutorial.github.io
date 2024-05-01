@@ -9,7 +9,9 @@ This webpage serves as the companion site for our [**AAMAS24 tutorial**](https:/
 
 #### Duration
 
-Half day. Time and place: TBU. 
+Half day. Time and place: 
+- 8:30-12:00, 06 May, 2024
+-  Cordis Hotel, AUCKLAND, NEW ZEALAND 
 
 #### Abstract
 
@@ -30,14 +32,14 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 
 #### Tutorial Outline
 
-- [Part A](./resources/code/partA/classic_explore.html)
+- [Part A](./parta.md)
 - [Part B](./partb-surprise.md)
-  + [Surprise](./partb-surprise.md)
-  + [Novelty](./partb-novelty.md)
-  + [Replay](./partb-replay.md)
+  + Surprise
+  + Novelty
+  + Replay
 - [Part C](./partc-language.md)
-  + [Language](./partc-language.md)
-  + [Causality](./partc-causality.md)
+  + Language
+  + Causality
 
 #### Tutorial Materials
 
