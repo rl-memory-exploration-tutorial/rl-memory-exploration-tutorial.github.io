@@ -12,7 +12,7 @@ subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
         body, 
         div, 
         iframe { 
-            margin: 0px; 
+            margin: -50px; 
             padding: 0px; 
             height: 100%; 
             border: none; 
@@ -32,7 +32,6 @@ subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
 <div class="">
     <iframe id="inlineFrameExample" 
 	sandbox="allow-same-origin"
-    onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"
 	frameborder="0" 
 	marginheight="0" 
 	marginwidth="0" 
