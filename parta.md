@@ -3,7 +3,29 @@ layout: page
 title: Part A  
 subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
 ---
-
+<style type="text/css"> 
+        html { 
+            overflow: auto; 
+        } 
+          
+        html, 
+        body, 
+        div, 
+        iframe { 
+            margin: 0px; 
+            padding: 0px; 
+            height: 200%; 
+            border: none; 
+        } 
+          
+        iframe { 
+            display: block; 
+            width: 200%; 
+            border: none; 
+            overflow-y: auto; 
+            overflow-x: hidden; 
+        } 
+    </style> 
 <div class="">
     <iframe id="inlineFrameExample" 
 	frameborder="0" 
