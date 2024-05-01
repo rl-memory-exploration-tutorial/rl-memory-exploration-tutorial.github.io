@@ -32,25 +32,45 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 
 #### Tutorial Outline
 
-- [Part A](./parta.md)
+- [Part A: Reinforcement LearningFundamentals and Exploration Inefficiency](./parta.md)
   + Welcome and Introduction (5 minutes)
      * Overview of the tutorial
      * Brief speaker introductions
   + Reinforcement Learning Basics (10 minutes)
      * Key components and frameworks
-     * Classic exploration [13, 29]
+     * Classic exploration 
   + Exploring Challenges in Deep RL (10 minutes)
      * Hard exploration problems
-     * Simple exploring solutions [11, 15]
+     * Simple exploring solutions 
   + QA and Demo (5 minutes)
-
   
-
-- [Part B](./partb.md)
-
-- [Part C](./partc.md)
-  + Language
-  + Causality
+- [Part B: Intrinsic Motivation, Surprise and Novelty](./partb.md)
+  + Principles and Frameworks (10 minutes)
+     * Reward shaping and the role of memory
+     * A taxonomy of memory-driven intrinsic exploration
+  + Deliberate Memory for Surprise-driven Exploration (25 minutes)
+     * Forward dynamics prediction 
+	 * Advanced dynamics-based surprises
+     * Ensemble and disagreement
+  + Break (20 minutes)
+  + RAM-like Memory for Novelty-based Exploration (25 minutes)
+     * Count-based memory 
+     * Episodic memory 
+	 * Hybrid memory 
+  + Replay Memory (20 minutes)
+     * Novelty-based replay
+     * Performance-based replay 
+  + QA and Demo (10 minutes)
+  
+- [Part C: Advanced Topics](./partc.md)
+  + Language-guided exploration (20 minutes)
+     * Language-assisted RL 
+	 * LLM-based exploration
+  + Causal discovery for exploration (20 minutes)
+     * Statistical approaches 
+	 * Deep learning approaches
+  + Closing Remarks (10 minutes)
+  + QA and Demo (10 minutes)
 
 #### Tutorial Materials
 
