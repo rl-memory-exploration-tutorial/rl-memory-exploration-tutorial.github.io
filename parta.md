@@ -26,18 +26,7 @@ subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
             overflow-x: hidden; 
         } 
 		
-.content {
-    top:65px;
-    overflow: hidden;
-    bottom: 0px;
-    width: 100%;
-    position: fixed;
-}
 
-.content > iframe {
-    height: 100%;
-    width : 100%;
-} 
     </style> 
 <div class="">
     <iframe id="inlineFrameExample" 
@@ -46,7 +35,7 @@ subtitle: Reinforcement Learning Fundamentals and Exploration Inefficiency
 	marginwidth="0" 
 	width="200%" 
 	height="200%" 
-	scrolling="auto"
+	scrolling="no"
     title="Inline Frame Example"
     src="/resources/code/partA/classic_explore.html"
     class="blah blah"
