@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PART C  
-subtitle: Advanced Topics
+title: Part B  
+subtitle: Intrinsic Motivation Surprise and Novelty
 ---
 <style type="text/css"> 
         html { 
@@ -39,7 +39,7 @@ subtitle: Advanced Topics
 	height="100%" 
 	scrolling="no"
     title="Inline Frame Example"
-    src="/resources/code/partC/Advanced_Method.html"
+    src="/resources/code/partB/Memory_for_Novelty_Based_Exploration.html"
     class="blah blah"
     >
 </iframe>

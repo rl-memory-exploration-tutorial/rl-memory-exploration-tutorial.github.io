@@ -22,7 +22,10 @@ author: Hung Le, Hoang Nguyen, Dai Do
 navbar-links:
   Why This Topic?: "whythis"
   Part A: "parta"
-  Part B: "partb"
+  Part B: 
+     - Surprise (Classic): "partb_surprise_classic"
+     - Surprise (Atari): "partb_surprise_atari"
+     - Novelty: "partb_novelty"     
   Part C: "partc"
   About Us: "aboutme"
   # Resources:

@@ -44,16 +44,16 @@ This tutorial is mainly designed for students and academics who work on Reinforc
      * Simple exploring solutions 
   + QA and Demo (5 minutes)
   
-- [Part B: Intrinsic Motivation, Surprise and Novelty](./partb.md)
+- [Part B: Intrinsic Motivation, Surprise and Novelty]
   + Principles and Frameworks (10 minutes)
      * Reward shaping and the role of memory
      * A taxonomy of memory-driven intrinsic exploration
-  + Deliberate Memory for Surprise-driven Exploration (25 minutes)
-     * Forward dynamics prediction 
+  + [Deliberate Memory for Surprise-driven Exploration](./partb_surprise_classic.md) (25 minutes)
+     * [Forward dynamics prediction](./partb_surprise_atari.md) 
 	 * Advanced dynamics-based surprises
      * Ensemble and disagreement
   + Break (20 minutes)
-  + RAM-like Memory for Novelty-based Exploration (25 minutes)
+  + [RAM-like Memory for Novelty-based Exploration](./partb_novelty.md) (25 minutes)
      * Count-based memory 
      * Episodic memory 
 	 * Hybrid memory 
