@@ -74,7 +74,6 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 
 #### Tutorial Materials
 
-- [Tutorial video](./) 
-- [Tutorial slides](./)  
+- [Tutorial slides](https://www.slideshare.net/slideshow/unlocking-exploration-self-motivated-agents-thrive-on-memory-driven-curiosity/268070526)  
 - [Tutorial proposal](./main.pdf)
 - [Tutorial code](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io/tree/main/resources/code)
