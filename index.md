@@ -78,6 +78,6 @@ This tutorial is mainly designed for students and academics who work on Reinforc
 - [Tutorial proposal](./main.pdf)
 - [Tutorial code](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io/tree/main/resources/code)
 - Blogs:
-  + [Part A] (https://hungleai.substack.com/p/curious-agents-saga-part-1)
-  + [Part B] (https://hungleai.substack.com/p/curious-agents-saga-part-2)
-  + [Part B, C] (https://hungleai.substack.com/p/curious-agents-saga-part-3) 
+  + [Part A](https://hungleai.substack.com/p/curious-agents-saga-part-1)
+  + [Part B](https://hungleai.substack.com/p/curious-agents-saga-part-2)
+  + [Part B, C](https://hungleai.substack.com/p/curious-agents-saga-part-3) 
